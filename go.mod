@@ -1,4 +1,4 @@
-module github.com/aagatpokhrel/go-cli/builtins
+module github.com/aagatpokhrel/go-cli
 
 go 1.20
 
